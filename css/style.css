@@ -596,6 +596,13 @@ CONTENT
   line-height:70px;
 }
 
+.warning font{
+  font-size:20px;
+  width:100%;
+  color:white;
+  border-bottom: 1px dotted white;
+}
+
 
 .two-column_1{
   font-size:25px;
